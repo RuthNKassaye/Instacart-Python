@@ -7,5 +7,5 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 
 **Data**
 
-[The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017) Accessed on November 2022.
+[The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017) Accessed on November 2022.
 **Note**: The customer as well as the price data in the products data set were both fabricated for the purpose of this course.
