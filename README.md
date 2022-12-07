@@ -1,9 +1,9 @@
 # Instacart-Python
-This project was conducted in Python for CareerFoundry Data Analytics Program.
-
 
 
 ![Instacart](Instacart_Image.png)
+
+This project was conducted in Python for CareerFoundry Data Analytics Program.
 
 **Context**
 =
